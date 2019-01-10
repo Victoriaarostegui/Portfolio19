@@ -1,0 +1,217 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+h1{
+  font-weight: 300;
+  font-size: 48px;
+  align-content: center;
+
+}
+
+p{
+  margin-bottom: 0px;
+  font-weight: 300;
+}
+
+.centered_align{
+  text-align: center;
+}
+.btn_ppl{
+  width: 180px;
+  padding: 10px 20px 10px 20px;
+  background-color: #6CC1C0;
+  color: #fff;
+  margin:0 auto;
+  border-radius: 43px;
+
+}
+
+.btn_mb{
+  margin-bottom: 20px;
+}
+
+.scroll_down {
+  max-width: 35px;
+}
+
+a{
+  color: #000;
+}
+
+.section1{
+  margin-bottom: 60px;
+}
+
+.mt10{
+  margin-top: 10;
+}
+
+.mt_20{
+  margin-top: 25px;
+}
+.mt30{
+  margin-top: 30px;
+
+}
+
+.mt50{
+  margin-top: 50px;
+}
+
+.mt100{
+  margin-top: 100px;
+}
+
+.left_align{
+  text-align: left;
+}
+.right_align{
+  text-align: right;
+}
+
+.mb40{
+  margin-bottom: 40px;
+}
+
+.mb20{
+  margin-bottom: 20px;
+}
+.mb100{
+  margin-bottom: 100px;
+}
+
+.bg_profile{
+
+  background-image: url(../images/profile.JPG);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: right;
+  max-height: 500px;
+  height: 370px;
+  margin-top: 3%;
+
+}
+
+.bg_profile2{
+
+  background-image: url(../images/profile.JP);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: right;
+  max-height: 500px;
+  height: 370px;
+  margin-top: 3%;
+
+}
+
+@media (max-width: 767px) {
+  .bg_profile {
+    margin-top: 10px;
+  }
+  .w50{
+    width: 100%;
+    display: block;
+  }
+
+}
+
+.fss{
+  font-size: 14px;
+}
+
+.laptop {
+  width: 100%;
+}
+
+.btn_sec{
+  width: 200px;
+  padding: 10px 20px 10px 20px;
+  background-color: #279784;
+  color: #fff;
+  margin:0 auto;
+  border-radius: 43px;
+  margin-bottom: 10px;
+}
+
+.b{
+
+  background-color: #F9BB2B;
+}
+
+.c{
+  background-color: #F87777;
+}
+
+.img_style{
+  max-width: 20vw;
+transform: rotate(360deg)!important;
+margin-left: -50px;
+}
+
+.pp{
+  width: 20%
+}
+
+.style{
+  max-width: 10px;
+  max-height: 10px;
+  text-align: right:
+
+}
+
+.contact{
+  display: flex
+}
+
+.description{
+  margin-right: 30%;
+}
+
+.redes{
+  display: flex
+
+}
+
+.madrid{
+  display: flex;
+}
+
+.p{
+  max-width: 300px;
+}
+
+.ml{
+margin-left: 400px;
+}
+
+.ml10{
+  margin-left: 10px;
+}
+
+.ml20{
+  margin-left: 20px;
+}
+
+.va{
+  margin-left: 150px;
+}
+
+.w50{
+  width: 50%;
+  vertical-align: bottom;
+}
+
+.inline{
+  display: inline-block !important;
+}
+
+.logo{
+  height: 40px;
+  width: 40px;
+}
+
+.mr10{
+  margin-right: 10px;
+}
