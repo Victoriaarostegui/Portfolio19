@@ -79,7 +79,7 @@ a{
   margin-bottom: 20px;
 }
 .mb100{
-  margin-bottom: 100px;
+  margin-bottom: 10%;
 }
 
 .bg_profile{
@@ -115,6 +115,7 @@ a{
     display: block;
   }
 
+
 }
 
 .fss{
@@ -145,7 +146,7 @@ a{
 }
 
 .img_style{
-  max-width: 20vw;
+  max-width: 70%;
 transform: rotate(360deg)!important;
 margin-left: -50px;
 }
@@ -191,11 +192,11 @@ margin-left: 400px;
 }
 
 .ml20{
-  margin-left: 20px;
+  margin-left: 10px;
 }
 
 .va{
-  margin-left: 150px;
+  margin-left: 470px;
 }
 
 .w50{
@@ -208,8 +209,8 @@ margin-left: 400px;
 }
 
 .logo{
-  height: 40px;
-  width: 40px;
+  height: 60%;
+  width: 60%;
 }
 
 .mr10{
