@@ -162,6 +162,10 @@ margin-left: -50px;
 
 }
 
+.classbutton:hover{
+
+}
+
 .contact{
   display: flex
 }
@@ -215,4 +219,15 @@ margin-left: 400px;
 
 .mr10{
   margin-right: 10px;
+}
+
+.textleft{
+  margin-left:0px;
+  font-size:14px;
+  font-style:italic;
+}
+
+
+.mt60{
+  margin-top: 60px;
 }
